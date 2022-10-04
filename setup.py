@@ -25,6 +25,6 @@ setup(
     keywords='python web3 ethereum blockchain asyncio aio',
     zip_safe=False,
     install_requires=[
-        "aiohttp==3.7.4.post0"
+        "aiohttp>=3.7.4.post0"
     ]
 )
